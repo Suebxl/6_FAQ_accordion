@@ -1,0 +1,16 @@
+const questions = document.querySelectorAll(".question");
+
+questions.forEach(question => {
+  question.addEventListener("click", () => {
+    if (question.nextElementSibling.classList.contains('hide')) {
+      question.nextElementSibling.classList.remove('hide');
+      question.classList.add('bold')
+    }
+    else {
+      question.nextElementSibling.classList.add('hide');
+      question.classList.remove('bold')
+    }
+
+
+  })
+})

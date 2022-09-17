@@ -12,6 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
+![Capture d’écran 2022-09-17 à 17 00 51](https://user-images.githubusercontent.com/73802863/190876337-8a88c7ed-7dca-440b-9369-6cf2b9f01479.png)
 
 ### Github page
 https://suebxl.github.io/6_FAQ_accordion/

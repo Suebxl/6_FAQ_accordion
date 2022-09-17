@@ -12,6 +12,12 @@ Users should be able to:
 
 ### Screenshot
 
+
+### Github page
+https://suebxl.github.io/6_FAQ_accordion/
+
+
+### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
